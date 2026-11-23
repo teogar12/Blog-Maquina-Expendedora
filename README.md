@@ -82,3 +82,6 @@ Aqui caando entramos tenemos varios estados nuevos:
 Por ultimo destacar que al final del loop, llamamso siempre al controlador que controlaba los threads de los botnes, y llamamos a la funcion que pasaba de un estado o a otro en funcion del tiempo presionado. Por ultimo reseteamos el watchdog.
 
 <img width="2876" height="2500" alt="image" src="https://github.com/user-attachments/assets/dd9a6c3c-307a-465e-b40f-33f79ce49572" />
+
+<img width="1536" height="2048" alt="WhatsApp Image 2026-11-23 at 23 25 40" src="https://github.com/user-attachments/assets/102247fe-1f76-4f14-8a46-65daa1faf1f2" />
+
