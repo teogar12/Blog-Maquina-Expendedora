@@ -32,3 +32,6 @@ Opciones:
 2) Ver distancia sensor (distance): hacemos como en el anterior per mostrando la distancia del sensor de ultrasonidos
 3) Ver contador (time): Aqui lo que vamos a mostrar es el tiempo que llevamos de ejecucion en segundos, se debe ir refrescando cada segundo. Podemos crear una funcion que lo calcule cuando entramos por primera vez y luego ir encrementando y mostrando el valor en cada segundo
 4) Modificar precios (prices): 
+
+
+<img width="2876" height="2500" alt="image" src="https://github.com/user-attachments/assets/dd9a6c3c-307a-465e-b40f-33f79ce49572" />
